@@ -1,0 +1,96 @@
+
+p{
+  font-size: 14px;
+  color: #262626;
+}
+
+.section{
+  padding-top: 40px;
+  padding-bottom:40px;
+};
+
+.main-haeding{
+  color: rgb(204, 18, 18);
+  font-size: 26px;
+}
+
+.underline{
+  height: 04px;
+  width: 4rem;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bg-c-light{
+  background-color: #f2f2f2;
+}
+
+.footer a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer a:hover{
+  color: gray;
+}
+
+.target {
+  height: 278px;
+  transform: scale(1);
+  transition: 0.3s ease-in-out;
+}
+.target:hover {
+  transform: scale(1.1);
+}
+
+
+.target2 {
+  height: 278px;
+  transform: scale(1);
+  transition: 0.3s ease-in-out;
+}
+.target2:hover {
+  transform: scale(1.1);
+}
+
+.target1 {
+  height: 278px;
+  transform: scale(1);
+  transition: 0.3s ease-in-out;
+}
+.target1:hover {
+  transform: scale(1.1);
+}
+
+.first {
+  height: 540px;
+  width: 1350px;
+}
+.second {
+  height: 540px;
+  width: 1350px;
+}
+.third{
+  height: 540px;
+  width: 1350px;
+}
+
+.siko {
+  background-color:black;
+}
+
+.simo {
+  width: 60px;
+  height:60px;
+  border-radius: 100%;
+}
+
+.simo:hover {
+  transform: scale(1) rotate(30deg);
+}
+
+.sido {
+  height: 15px;
+}
+
